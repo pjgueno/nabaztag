@@ -13,8 +13,8 @@ TFT_eSPI tft = TFT_eSPI();
 
 #define BUFF_SIZE 64
 
-const char* ssid = "Dana_WLAN";
-const char* password = "DanaPJ011115";
+const char* ssid = "XXXXXX";
+const char* password = "XXXXXXX";
 
 AsyncWebServer server(80);
 
